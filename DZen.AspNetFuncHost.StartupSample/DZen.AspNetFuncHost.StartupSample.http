@@ -1,0 +1,6 @@
+@DZen.AspNetFuncHost.StartupSample_HostAddress = http://localhost:5228
+
+GET {{DZen.AspNetFuncHost.StartupSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
